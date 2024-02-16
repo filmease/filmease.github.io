@@ -3,7 +3,7 @@
 > Welcome to FilmEase movies download website!
 
 <h3 align="center">visit website</h3>
-<hr>
+
 <div align="center">
  
 [filmease.github.io](https://filmease.github.io)
