@@ -1,4 +1,4 @@
-<h2 align="center">FilmEase</h2>
+<h1 align="center">FilmEase</h1>
 
 > Welcome to FilmEase movies download website!
 
